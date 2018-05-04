@@ -1,0 +1,131 @@
+---
+chestitems:
+- - 261
+  - 0
+  - 1
+- - 262
+  - 0
+  - 2
+- - 262
+  - 0
+  - 3
+- - 267
+  - 0
+  - 1
+- - 268
+  - 0
+  - 1
+- - 272
+  - 0
+  - 1
+- - 276
+  - 0
+  - 1
+- - 283
+  - 0
+  - 1
+money: 500
+spSpawn1:
+- 126
+- 4
+- 131
+spSpawn2:
+- 126
+- 4
+- 131
+spSpawn3:
+- 126
+- 4
+- 131
+spSpawn4:
+- 126
+- 4
+- 131
+spSpawn5:
+- 126
+- 4
+- 131
+spSpawn6:
+- 126
+- 4
+- 131
+spSpawn7:
+- 126
+- 4
+- 131
+spSpawn8:
+- 126
+- 4
+- 131
+spSpawn9:
+- 126
+- 4
+- 131
+spSpawn10:
+- 126
+- 4
+- 131
+spSpawn11:
+- 126
+- 4
+- 131
+spSpawn12:
+- 126
+- 4
+- 131
+arenas:
+- sp
+- TNTRUN
+spPlayTime: 780
+spStartTime: 90
+TNTRUNSpawn1:
+- -13
+- 62
+- -19
+TNTRUNSpawn2:
+- -13
+- 62
+- -19
+TNTRUNSpawn3:
+- -13
+- 62
+- -19
+TNTRUNSpawn4:
+- -13
+- 62
+- -19
+TNTRUNSpawn5:
+- -13
+- 62
+- -19
+TNTRUNSpawn6:
+- -13
+- 62
+- -19
+TNTRUNSpawn7:
+- -13
+- 62
+- -19
+TNTRUNSpawn8:
+- -13
+- 62
+- -19
+TNTRUNSpawn9:
+- -13
+- 62
+- -19
+TNTRUNSpawn10:
+- -13
+- 62
+- -19
+TNTRUNSpawn11:
+- -13
+- 62
+- -19
+TNTRUNSpawn12:
+- -12
+- 62
+- -20
+TNTRUNPlayTime: 780
+TNTRUNStartTime: 90
+...
